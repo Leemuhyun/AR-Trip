@@ -1,0 +1,4 @@
+#Fri Jun 30 13:34:36 KST 2017
+base.0=D\:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

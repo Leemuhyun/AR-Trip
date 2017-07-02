@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09314b5b38c5e46d9461f8eb87056f55ed36870d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09314b5b38c5e46d9461f8eb87056f55ed36870d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09314b5b38c5e46d9461f8eb87056f55ed36870d\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\angus\\.android\\build-cache\\09314b5b38c5e46d9461f8eb87056f55ed36870d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

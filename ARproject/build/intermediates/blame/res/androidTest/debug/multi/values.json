@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 104,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 104,
+                        "endOffset": 262
+                    }
+                }
+            }
+        ]
+    }
+]

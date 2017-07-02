@@ -1,0 +1,313 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:2:1-149:12
+	package
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:3:5-21
+	android:versionName
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:4:5-45
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:5:5-52
+uses-sdk
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\angus\.android\build-cache\ff4fecaad90cc5332e03b7ec949d32ed56a030e5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\angus\.android\build-cache\55085b2149f3ab3e0a9439c781e41703ee4282ef\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\angus\.android\build-cache\93b8219e3382a704e32063638c23428f224586db\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\angus\.android\build-cache\09314b5b38c5e46d9461f8eb87056f55ed36870d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\5f4afc8b8fd94e5645f9f511423f0826f1530d7d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\angus\.android\build-cache\40b23fd784fcc17e7e6a92898be6fe93c2bb63ba\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\angus\.android\build-cache\639b540ccb9a251606ab43a5e5615f9fc8ea3c34\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\angus\.android\build-cache\05bf8e95a87d97cef23da7439209cc068e0641cf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\angus\.android\build-cache\1ed98be5577cb3076ec0a9a88573e936ab3cd969\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\angus\.android\build-cache\8c54e4a7e3952aa87e59fcd13f4204b44815985e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\10bfd9f922ee8d1cb70ddccfb9da5a818cc94a30\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\angus\.android\build-cache\9af9687769666fc6266d2a8eda08d43c158d4bd1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\angus\.android\build-cache\4a43242ef2b029960db9f5ef30efbe68f711d89c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\angus\.android\build-cache\5c035c4fa0a7542e29dd259ecb915c93bb1e757b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\angus\.android\build-cache\73dc250108ca36125ddb8a038c0fedb64abf8a27\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+		INJECTED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:10:9-35
+uses-feature#android.hardware.camera
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:13:19-57
+uses-permission#android.hardware.camera.autofocus
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:16:22-66
+supports-screens
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:18:5-23:40
+	android:largeScreens
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:20:9-36
+	android:smallScreens
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:22:9-36
+	android:normalScreens
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:21:9-37
+	android:xlargeScreens
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:23:9-37
+	android:anyDensity
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:19:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:26:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:27:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:28:22-78
+uses-feature#0x00020000
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:30:5-54
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:30:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:21:52-75
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:32:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:35:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:38:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:41:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:43:5-45:36
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:45:9-33
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:44:9-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:51:5-79
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:51:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:52:5-75
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:52:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:53:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:54:5-81
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:54:22-78
+application
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:56:5-147:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\angus\.android\build-cache\a416a730a24e060869535f785d9260c427aa7447\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\angus\.android\build-cache\ff4fecaad90cc5332e03b7ec949d32ed56a030e5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\angus\.android\build-cache\55085b2149f3ab3e0a9439c781e41703ee4282ef\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\angus\.android\build-cache\93b8219e3382a704e32063638c23428f224586db\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\angus\.android\build-cache\09314b5b38c5e46d9461f8eb87056f55ed36870d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\5f4afc8b8fd94e5645f9f511423f0826f1530d7d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\angus\.android\build-cache\40b23fd784fcc17e7e6a92898be6fe93c2bb63ba\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\angus\.android\build-cache\639b540ccb9a251606ab43a5e5615f9fc8ea3c34\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\angus\.android\build-cache\05bf8e95a87d97cef23da7439209cc068e0641cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\angus\.android\build-cache\1ed98be5577cb3076ec0a9a88573e936ab3cd969\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\angus\.android\build-cache\8c54e4a7e3952aa87e59fcd13f4204b44815985e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\10bfd9f922ee8d1cb70ddccfb9da5a818cc94a30\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\angus\.android\build-cache\4a43242ef2b029960db9f5ef30efbe68f711d89c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\angus\.android\build-cache\5c035c4fa0a7542e29dd259ecb915c93bb1e757b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\angus\.android\build-cache\73dc250108ca36125ddb8a038c0fedb64abf8a27\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:60:9-41
+	android:icon
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:58:9-42
+	android:banner
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:57:9-46
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:61:9-40
+	android:isGame
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:59:9-30
+activity#com.co.intro.IntroActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:65:9-82:20
+	android:label
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:66:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:72:27-74
+activity#com.unity3d.player.VideoPlayer
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:83:9-86:48
+	android:label
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:85:13-170
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:84:13-58
+uses-library#com.ti.s3d
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:92:9-94:40
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:93:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:96:9-98:40
+	android:required
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:97:13-54
+activity#com.co.activity.MapsActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:100:9-102:59
+	android:label
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:102:13-56
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:101:13-50
+activity#com.co.UnityPlayerActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:103:9-114:20
+	android:launchMode
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:107:13-44
+	android:configChanges
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:105:13-186
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:106:13-71
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:104:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:108:13-110:40
+	android:value
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:110:17-37
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:109:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:111:13-113:41
+	android:value
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:113:17-38
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:112:17-71
+activity#com.co.cameraf.CameraActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:115:9-118:59
+	android:screenOrientation
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:117:13-50
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:116:13-51
+activity#com.co.setting.SettingsActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:119:9-62
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:119:19-59
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:128:9-130:55
+	android:value
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:130:13-52
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:129:13-62
+activity#com.co.activity.MainActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:132:9-134:56
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:133:13-50
+activity#com.co.activity.ScrollingActivity
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:135:9-137:56
+	android:theme
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:137:13-44
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:136:13-55
+receiver#com.co.NetworkCheckBroadcast
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:139:9-146:20
+	android:enabled
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:141:13-35
+	android:exported
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:142:13-36
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:140:13-50
+intent-filter#android.net.conn.BACKGROUND_DATA_SETTING_CHANGED
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:143:13-145:29
+action#android.net.conn.BACKGROUND_DATA_SETTING_CHANGED
+ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:144:17-91
+	android:name
+		ADDED from D:\TestDown\BGARefreshLayout-Android-master\ARproject\src\main\AndroidManifest.xml:144:25-88
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\angus\.android\build-cache\8fbc780d29fe8b39398efadc0aaa11ab6bf767f3\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\angus\.android\build-cache\55085b2149f3ab3e0a9439c781e41703ee4282ef\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\angus\.android\build-cache\55085b2149f3ab3e0a9439c781e41703ee4282ef\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\angus\.android\build-cache\55085b2149f3ab3e0a9439c781e41703ee4282ef\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\angus\.android\build-cache\09314b5b38c5e46d9461f8eb87056f55ed36870d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\5f4afc8b8fd94e5645f9f511423f0826f1530d7d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\angus\.android\build-cache\40b23fd784fcc17e7e6a92898be6fe93c2bb63ba\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\angus\.android\build-cache\639b540ccb9a251606ab43a5e5615f9fc8ea3c34\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\angus\.android\build-cache\05bf8e95a87d97cef23da7439209cc068e0641cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\angus\.android\build-cache\1ed98be5577cb3076ec0a9a88573e936ab3cd969\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\angus\.android\build-cache\8c54e4a7e3952aa87e59fcd13f4204b44815985e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\angus\.android\build-cache\10bfd9f922ee8d1cb70ddccfb9da5a818cc94a30\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\angus\.android\build-cache\9af9687769666fc6266d2a8eda08d43c158d4bd1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\angus\.android\build-cache\4a43242ef2b029960db9f5ef30efbe68f711d89c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\angus\.android\build-cache\5c035c4fa0a7542e29dd259ecb915c93bb1e757b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\angus\.android\build-cache\73dc250108ca36125ddb8a038c0fedb64abf8a27\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\angus\.android\build-cache\09f7e64f704cbd0b7c0bae8eba9c9b096c1bef94\output\AndroidManifest.xml:26:9-47

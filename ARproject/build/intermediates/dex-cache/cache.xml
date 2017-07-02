@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TestDown\BGARefreshLayout-Android-master\ARproject\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="D:\TestDown\BGARefreshLayout-Android-master\ARproject\build\intermediates\pre-dexed\debug\Vuforia_2a7ace1d2194603126d1846a7151158acb9d6f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestDown\BGARefreshLayout-Android-master\ARproject\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6831a07fe24f06b4f2889e6d31760238eb59f861">
+        <dex dex="D:\TestDown\BGARefreshLayout-Android-master\ARproject\build\intermediates\pre-dexed\debug\unity-classes_f6383029f8ef231b478487ef93e334924f01be1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestDown\BGARefreshLayout-Android-master\ARproject\libs\glide-full-4.0.0-RC0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="967c9714db56ad647b0b8a53d6b81ea3d613e3b3">
+        <dex dex="D:\TestDown\BGARefreshLayout-Android-master\ARproject\build\intermediates\pre-dexed\debug\glide-full-4.0.0-RC0_950aede7b5965b893959806fb5dfc4e13e7ee9d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestDown\BGARefreshLayout-Android-master\ARproject\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="D:\TestDown\BGARefreshLayout-Android-master\ARproject\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_458d83bfc51d7a8c01d4910999622b7ac0df09dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestDown\BGARefreshLayout-Android-master\ARproject\libs\VuforiaMedia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30aec121536722b02442d61c5c431b6d04ab96aa">
+        <dex dex="D:\TestDown\BGARefreshLayout-Android-master\ARproject\build\intermediates\pre-dexed\debug\VuforiaMedia_cdaba7f7308aaca27e2afb2b1aa3f481d098e912.jar" />
+    </item>
+
+</items>

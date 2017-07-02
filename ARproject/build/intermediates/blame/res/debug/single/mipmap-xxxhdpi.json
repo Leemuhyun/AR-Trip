@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\image.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\image.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\other_image.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\other_image.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\notice.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\notice.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\leports.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\leports.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bookmark.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\shopping.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\shopping.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\settings.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\cloud.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\cloud.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\location.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\location.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ar.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\ar.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\call.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\call.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\maps.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\maps.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\hotel.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\hotel.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\restaurant.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\restaurant.png"
+    },
+    {
+        "merged": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\culture.png",
+        "source": "D:\\TestDown\\BGARefreshLayout-Android-master\\ARproject\\src\\main\\res\\mipmap-xxxhdpi\\culture.png"
+    }
+]
